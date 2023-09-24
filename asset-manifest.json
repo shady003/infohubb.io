@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/infohubb.io/static/css/main.073c9b0a.css",
+    "main.js": "/infohubb.io/static/js/main.c5121022.js",
+    "static/js/787.975c3997.chunk.js": "/infohubb.io/static/js/787.975c3997.chunk.js",
+    "static/media/loading.gif": "/infohubb.io/static/media/loading.3d61e471e768c208950b.gif",
+    "index.html": "/infohubb.io/index.html",
+    "main.073c9b0a.css.map": "/infohubb.io/static/css/main.073c9b0a.css.map",
+    "main.c5121022.js.map": "/infohubb.io/static/js/main.c5121022.js.map",
+    "787.975c3997.chunk.js.map": "/infohubb.io/static/js/787.975c3997.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5121022.js"
+  ]
+}
